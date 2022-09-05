@@ -47,8 +47,8 @@ Here is the **list of commits** that I made during GSoC .You can see them [here]
 
 ### List of jira issues on which I majorly worked upon during GSoC
 - [XWiki-mysql-Snap's mysql breaking](https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-2?filter=allopenissues)
-- [xwiki-base more generic and support other databases] (https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-3?filter=allopenissues)
-- [arguments in XWiki-jetty] (https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-4?filter=allissues)
+- [xwiki-base more generic and support other databases](https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-3?filter=allopenissues)
+- [arguments in XWiki-jetty](https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-4?filter=allissues)
 
 ## Link to the snap package and documentation I made during GSoC
 - [XWiki snap published on SnapStore](https://snapcraft.io/xwiki)
