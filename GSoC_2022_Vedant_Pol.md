@@ -30,6 +30,7 @@ The [XWiki snap](https://snapcraft.io/xwiki) is published on the [snapcrat store
  <div align="center">
 <img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-download-data.png" alt="XWiki-downoad-data" height=600px width=850px>
 </div>
+
 The XWiki snap gets around **66 instals every week** thus increasing the XWiki reach.
 
 ## Contributions :gift:
