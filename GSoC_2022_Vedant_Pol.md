@@ -1,7 +1,8 @@
 ## GSoC '21 Report | Vednat Pol | XWiki | Snap Package for XWiki
 <div align="center">
-<img src="[https://en.wikipedia.org/wiki/File:Logo-xwikiorange.svg](https://developers.google.com/open-source/gsoc/resources/marketing)" alt="XWiki-logo" height=250px width=600px>
+<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-logo.png" alt="XWiki-logo" height=250px width=600px>
 </div>
+
 ## General Information 📝
 <b>Organization:</b> [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome) <br>
 <b>Project:</b> [packaging-snap](https://github.com/xwiki-contrib/packaging-snap) <br>
