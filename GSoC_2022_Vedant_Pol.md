@@ -1,6 +1,6 @@
 ## GSoC '21 Report | Vednat Pol | XWiki | Snap Package for XWiki
 <div align="center">
-<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-logo.png" alt="XWiki-logo" height=250px width=600px>
+<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/MergedImages.png" alt="XWiki-logo" height=250px width=600px>
 </div>
 
 ## General Information 📝
