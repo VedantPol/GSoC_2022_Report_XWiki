@@ -95,13 +95,5 @@ Also, I am thankful to the whole XWiki family who provided me this wonderful opp
 In the end, I would like to thank Google for organizing such a wonderful program and also kudos to me who successfully
 completed this program. :wink:
 
-
-
-
-
-
-
-
-
-
+<h2 align = "center"> Thanks for your precious time. 👋</h2>
 
