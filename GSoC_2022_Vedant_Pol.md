@@ -38,3 +38,9 @@ Here are some stats of my contributions to project DepClean during GSoC:
 - I made a total of 24 PRs during GSoC, out of which 23 got successfully merged and 1 got closed.
 - In those 24 successfully merged PRs, I made a total of 85 commits during the program.
 - Overall up to now I had contributed with `7,018 ++ 2,557 --` lines of codes to this project .
+
+<p align="center">
+<a href = "https://github.com/xwiki-contrib/packaging-snap/graphs/contributors"><img src = "https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/lines-of-code-Vedant_Pol.png" alt="Github contribution-snap"/></a>
+</p>
+
+
