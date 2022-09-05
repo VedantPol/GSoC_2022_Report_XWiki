@@ -1,6 +1,6 @@
 ## GSoC '21 Report | Vednat Pol | XWiki | Snap Package for XWiki
 <div align="center">
-<img src="[https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/utils/Images/header-image.png](https://developers.google.com/open-source/gsoc/resources/marketing)" alt="GSoC-logo" height=250px width=600px>
+<img src="[https://en.wikipedia.org/wiki/File:Logo-xwikiorange.svg](https://developers.google.com/open-source/gsoc/resources/marketing)" alt="XWiki-logo" height=250px width=600px>
 </div>
 ## General Information 📝
 <b>Organization:</b> [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome) <br>
