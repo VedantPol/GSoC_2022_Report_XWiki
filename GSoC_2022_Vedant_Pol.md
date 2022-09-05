@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-logo.png" alt="XWiki-logo" height=250px width=600px>
 </div>
+
 ## General Information 📝
 <b>Organization:</b> [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome) <br>
 <b>Project:</b> [packaging-snap](https://github.com/xwiki-contrib/packaging-snap) <br>
