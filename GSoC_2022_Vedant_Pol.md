@@ -29,7 +29,7 @@ XWiki is an open source software development platform based on the wiki principl
 The [XWiki snap](https://snapcraft.io/xwiki) is published on the [snapcrat store](https://snapcraft.io/). The snap can be installed and used on all major linux distributions. The XWiki snap can be updated/upgraded without any manual interventation. 
 The XWiki snap gets around **66 installs every week**. Thus increasing the XWiki users.
  <div align="center">
-<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/MergedImages.png" alt="XWiki-logo" height=250px width=600px>
+<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-download-data.png" alt="XWiki-logo" height=600px width=600px>
 </div>
 
 
