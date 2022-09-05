@@ -26,10 +26,15 @@ XWiki is an open source software development platform based on the wiki principl
 - Integrate the genration of snap with the release such that it is easy to maintain and provide updates.
 
 ## Results :rocket:
-The [XWiki snap](https://snapcraft.io/xwiki) is published on the [snapcrat store](https://snapcraft.io/). The snap can be installed and used on all major linux distributions. The XWiki snap can be updated/upgraded without any manual interventation. 
-The XWiki snap gets around **66 installs every week**. Thus increasing the XWiki users.
+The [XWiki snap](https://snapcraft.io/xwiki) is published on the [snapcrat store](https://snapcraft.io/). The snap can be installed on all major linux distributions and updated/upgraded without any manual interventation. Since XWiki snap is based on the xwiki-jetty package it is fairly easy to maintain.
  <div align="center">
-<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-download-data.png" alt="XWiki-logo" height=600px width=850px>
+<img src="https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/xwiki-download-data.png" alt="XWiki-downoad-data" height=600px width=850px>
 </div>
+The XWiki snap gets around **66 installs every week** thus increasing the XWiki reach.
 
+## Contributions :gift:
+Here are some stats of my contributions to project DepClean during GSoC:
 
+- I made a total of 24 PRs during GSoC, out of which 23 got successfully merged and 1 got closed.
+- In those 24 successfully merged PRs, I made a total of 85 commits during the program.
+- Overall up to now I had contributed with `7,018 ++ 2,557 --` lines of codes to this project .
