@@ -44,7 +44,7 @@ Here are some stats about my contributions to project XWiki-snap during GSoC:
 <a href = "https://github.com/xwiki-contrib/packaging-snap/graphs/contributors"><img src = "https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/utils/images/lines-of-code-Vedant_Pol.png" alt="Github contribution-snap"/></a>
 </p>
 
-Here is the **list of commits** that I made during GSoC .You can see them [here](https://github.com/xwiki-contrib/packaging-snap/commits/main).
+**Here is the list of commits that I made during GSoC .You can see them [here](https://github.com/xwiki-contrib/packaging-snap/commits/main).**
 
 ### List of jira issues on which I majorly worked upon during GSoC
 - [XWiki-mysql-Snap's mysql breaking](https://jira.xwiki.org/projects/XSNAP/issues/XSNAP-2?filter=allopenissues)
